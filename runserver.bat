@@ -1,0 +1,1 @@
+java -cp build/chat.jar ChatServer 1234

@@ -1,0 +1,1 @@
+java -cp build/chat.jar ChatClient 127.0.0.1 1234 user1
